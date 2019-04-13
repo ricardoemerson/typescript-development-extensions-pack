@@ -1,0 +1,28 @@
+{
+    "name": "typescript-development-extensions-pack",
+    "displayName": "Typescript Development Extensions Pack",
+    "description": "A set of useful extensions for Typescript projects.",
+    "version": "1.0.0",
+    "publisher": "ricardo-emerson",
+    "icon": "extension-icon.png",
+    "repository": "https://github.com/ricardoemerson/typescript-development-extensions-pack",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "keywords": [
+        "development",
+        "Typescript"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "DSKWRK.vscode-generate-getter-setter",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "nikolazaric.es6-typescript-import-sorter",
+        "steoates.autoimport"
+    ],
+    "__metadata": {
+		"publisherDisplayName": "Ricardo Emerson"
+	}
+}
