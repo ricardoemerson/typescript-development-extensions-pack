@@ -1,6 +1,6 @@
-# VS Code TypeScript Development Extensions Pack
+# TypeScript Development Extensions Pack
 
-This extension pack packages some useful extensions for TypeScript development in VS Code.
+This extension package contains useful extensions for working with TypeScript in visual studio code.
 
 ### Extensions Included
 
